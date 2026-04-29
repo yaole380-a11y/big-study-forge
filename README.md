@@ -122,20 +122,25 @@ Because learning materials are often long and users may ask many follow-up quest
 
 ## Current Stage
 
-This project is currently in the early development stage.
+## Current Stage
+
+This project is currently in the early prototype stage.
+
+The first interactive Streamlit prototype has been created. It supports learning material input, learner stage selection, subject selection, learning goal input, prototype summary generation, quiz generation, study plan generation, and estimated token usage logging.
 
 Planned development steps:
 
-- [ ] Create project repository and documentation
-- [ ] Build the first Streamlit prototype
-- [ ] Add text input and learning material summarization
-- [ ] Add quiz generation
+- [x] Create project repository and documentation
+- [x] Build the first Streamlit prototype
+- [x] Add text input and prototype learning output generation
+- [x] Add estimated token usage tracking
+- [ ] Add Xiaomi MiMo API integration
+- [ ] Add real token usage logging
+- [ ] Add PDF input support
 - [ ] Add mistake analysis
-- [ ] Add study plan generation
-- [ ] Add token usage tracking
+- [ ] Add study plan improvement
 - [ ] Add sample learning materials
 - [ ] Add demo screenshots
-- [ ] Test Xiaomi MiMo API integration
 - [ ] Prepare application materials for higher token quota
 
 ## Tech Stack
