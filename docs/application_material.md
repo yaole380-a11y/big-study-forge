@@ -84,11 +84,20 @@ The token quota will be used for:
 
 Current progress:
 
-- GitHub repository created
+- Public GitHub repository created
 - README documentation prepared
 - Project plan prepared
 - Application material prepared
-- First prototype under development
+- Demo script prepared
+- First interactive Streamlit prototype created
+- Learning material input supported
+- Learner stage and subject selection supported
+- Prototype summary generation supported
+- Prototype quiz generation supported
+- Prototype study plan generation supported
+- Estimated token usage tracking supported
+
+The next development step is to connect Xiaomi MiMo API and replace the prototype generation logic with real model calls.
 
 ## Proof Materials
 
