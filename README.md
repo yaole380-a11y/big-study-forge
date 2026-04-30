@@ -161,6 +161,10 @@ Planned development steps:
 
 ![Token Usage Log](assets/screenshot_token_log.png)
 
+### Token Usage Log
+
+![Token Usage Log](assets/screenshot_token_log.png)
+
 ## Tech Stack
 
 Planned technology stack:
