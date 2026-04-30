@@ -143,6 +143,24 @@ Planned development steps:
 - [ ] Add demo screenshots
 - [ ] Prepare application materials for higher token quota
 
+## Demo Screenshots
+
+### Home Page
+
+![Home Page](assets/screenshot_home.png)
+
+### Input and Settings
+
+![Input and Settings](assets/screenshot_input_settings.png)
+
+### Generated Study Output
+
+![Generated Study Output](assets/screenshot_generated_output.png)
+
+### Token Usage Log
+
+![Token Usage Log](assets/screenshot_token_log.png)
+
 ## Tech Stack
 
 Planned technology stack:
